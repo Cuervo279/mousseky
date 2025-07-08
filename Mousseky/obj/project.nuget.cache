@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KjTWuln6KE=",
+  "success": true,
+  "projectFilePath": "C:\\Programas\\Projetos\\Vanilla\\Mousseky\\Mousseky\\Mousseky\\Mousseky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.bsilva\\.nuget\\packages\\anglesharp\\1.2.0\\anglesharp.1.2.0.nupkg.sha512",
+    "C:\\Users\\leonardo.bsilva\\.nuget\\packages\\youtubeexplode\\6.5.4\\youtubeexplode.6.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
